@@ -1,0 +1,14 @@
+C:\Users\resid\source\repos\Search String Words (1,A,a)\Search String Words (1,A,a)\bin\Debug\netcoreapp3.1\Search String Words (1,A,a).exe
+C:\Users\resid\source\repos\Search String Words (1,A,a)\Search String Words (1,A,a)\bin\Debug\netcoreapp3.1\Search String Words (1,A,a).deps.json
+C:\Users\resid\source\repos\Search String Words (1,A,a)\Search String Words (1,A,a)\bin\Debug\netcoreapp3.1\Search String Words (1,A,a).runtimeconfig.json
+C:\Users\resid\source\repos\Search String Words (1,A,a)\Search String Words (1,A,a)\bin\Debug\netcoreapp3.1\Search String Words (1,A,a).runtimeconfig.dev.json
+C:\Users\resid\source\repos\Search String Words (1,A,a)\Search String Words (1,A,a)\bin\Debug\netcoreapp3.1\Search String Words (1,A,a).dll
+C:\Users\resid\source\repos\Search String Words (1,A,a)\Search String Words (1,A,a)\bin\Debug\netcoreapp3.1\Search String Words (1,A,a).pdb
+C:\Users\resid\source\repos\Search String Words (1,A,a)\Search String Words (1,A,a)\obj\Debug\netcoreapp3.1\Search String Words (1,A,a).csproj.AssemblyReference.cache
+C:\Users\resid\source\repos\Search String Words (1,A,a)\Search String Words (1,A,a)\obj\Debug\netcoreapp3.1\Search String Words (1,A,a).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\source\repos\Search String Words (1,A,a)\Search String Words (1,A,a)\obj\Debug\netcoreapp3.1\Search String Words (1,A,a).AssemblyInfoInputs.cache
+C:\Users\resid\source\repos\Search String Words (1,A,a)\Search String Words (1,A,a)\obj\Debug\netcoreapp3.1\Search String Words (1,A,a).AssemblyInfo.cs
+C:\Users\resid\source\repos\Search String Words (1,A,a)\Search String Words (1,A,a)\obj\Debug\netcoreapp3.1\Search String Words (1,A,a).csproj.CoreCompileInputs.cache
+C:\Users\resid\source\repos\Search String Words (1,A,a)\Search String Words (1,A,a)\obj\Debug\netcoreapp3.1\Search String Words (1,A,a).dll
+C:\Users\resid\source\repos\Search String Words (1,A,a)\Search String Words (1,A,a)\obj\Debug\netcoreapp3.1\Search String Words (1,A,a).pdb
+C:\Users\resid\source\repos\Search String Words (1,A,a)\Search String Words (1,A,a)\obj\Debug\netcoreapp3.1\Search String Words (1,A,a).genruntimeconfig.cache

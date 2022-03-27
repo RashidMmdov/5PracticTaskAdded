@@ -1,0 +1,28 @@
+C:\Users\resid\source\repos\Capitallizer 2 Word\Capitallizer 2 Word\bin\Debug\netcoreapp3.1\Capitallizer 2 Word.exe
+C:\Users\resid\source\repos\Capitallizer 2 Word\Capitallizer 2 Word\bin\Debug\netcoreapp3.1\Capitallizer 2 Word.deps.json
+C:\Users\resid\source\repos\Capitallizer 2 Word\Capitallizer 2 Word\bin\Debug\netcoreapp3.1\Capitallizer 2 Word.runtimeconfig.json
+C:\Users\resid\source\repos\Capitallizer 2 Word\Capitallizer 2 Word\bin\Debug\netcoreapp3.1\Capitallizer 2 Word.runtimeconfig.dev.json
+C:\Users\resid\source\repos\Capitallizer 2 Word\Capitallizer 2 Word\bin\Debug\netcoreapp3.1\Capitallizer 2 Word.dll
+C:\Users\resid\source\repos\Capitallizer 2 Word\Capitallizer 2 Word\bin\Debug\netcoreapp3.1\Capitallizer 2 Word.pdb
+C:\Users\resid\source\repos\Capitallizer 2 Word\Capitallizer 2 Word\obj\Debug\netcoreapp3.1\Capitallizer 2 Word.csproj.AssemblyReference.cache
+C:\Users\resid\source\repos\Capitallizer 2 Word\Capitallizer 2 Word\obj\Debug\netcoreapp3.1\Capitallizer 2 Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\source\repos\Capitallizer 2 Word\Capitallizer 2 Word\obj\Debug\netcoreapp3.1\Capitallizer 2 Word.AssemblyInfoInputs.cache
+C:\Users\resid\source\repos\Capitallizer 2 Word\Capitallizer 2 Word\obj\Debug\netcoreapp3.1\Capitallizer 2 Word.AssemblyInfo.cs
+C:\Users\resid\source\repos\Capitallizer 2 Word\Capitallizer 2 Word\obj\Debug\netcoreapp3.1\Capitallizer 2 Word.csproj.CoreCompileInputs.cache
+C:\Users\resid\source\repos\Capitallizer 2 Word\Capitallizer 2 Word\obj\Debug\netcoreapp3.1\Capitallizer 2 Word.dll
+C:\Users\resid\source\repos\Capitallizer 2 Word\Capitallizer 2 Word\obj\Debug\netcoreapp3.1\Capitallizer 2 Word.pdb
+C:\Users\resid\source\repos\Capitallizer 2 Word\Capitallizer 2 Word\obj\Debug\netcoreapp3.1\Capitallizer 2 Word.genruntimeconfig.cache
+C:\Users\resid\Desktop\new Tasks 5\Capitallizer 2 Word\Capitallizer 2 Word\bin\Debug\netcoreapp3.1\Capitallizer 2 Word.exe
+C:\Users\resid\Desktop\new Tasks 5\Capitallizer 2 Word\Capitallizer 2 Word\bin\Debug\netcoreapp3.1\Capitallizer 2 Word.deps.json
+C:\Users\resid\Desktop\new Tasks 5\Capitallizer 2 Word\Capitallizer 2 Word\bin\Debug\netcoreapp3.1\Capitallizer 2 Word.runtimeconfig.json
+C:\Users\resid\Desktop\new Tasks 5\Capitallizer 2 Word\Capitallizer 2 Word\bin\Debug\netcoreapp3.1\Capitallizer 2 Word.runtimeconfig.dev.json
+C:\Users\resid\Desktop\new Tasks 5\Capitallizer 2 Word\Capitallizer 2 Word\bin\Debug\netcoreapp3.1\Capitallizer 2 Word.dll
+C:\Users\resid\Desktop\new Tasks 5\Capitallizer 2 Word\Capitallizer 2 Word\bin\Debug\netcoreapp3.1\Capitallizer 2 Word.pdb
+C:\Users\resid\Desktop\new Tasks 5\Capitallizer 2 Word\Capitallizer 2 Word\obj\Debug\netcoreapp3.1\Capitallizer 2 Word.csproj.AssemblyReference.cache
+C:\Users\resid\Desktop\new Tasks 5\Capitallizer 2 Word\Capitallizer 2 Word\obj\Debug\netcoreapp3.1\Capitallizer 2 Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\Desktop\new Tasks 5\Capitallizer 2 Word\Capitallizer 2 Word\obj\Debug\netcoreapp3.1\Capitallizer 2 Word.AssemblyInfoInputs.cache
+C:\Users\resid\Desktop\new Tasks 5\Capitallizer 2 Word\Capitallizer 2 Word\obj\Debug\netcoreapp3.1\Capitallizer 2 Word.AssemblyInfo.cs
+C:\Users\resid\Desktop\new Tasks 5\Capitallizer 2 Word\Capitallizer 2 Word\obj\Debug\netcoreapp3.1\Capitallizer 2 Word.csproj.CoreCompileInputs.cache
+C:\Users\resid\Desktop\new Tasks 5\Capitallizer 2 Word\Capitallizer 2 Word\obj\Debug\netcoreapp3.1\Capitallizer 2 Word.dll
+C:\Users\resid\Desktop\new Tasks 5\Capitallizer 2 Word\Capitallizer 2 Word\obj\Debug\netcoreapp3.1\Capitallizer 2 Word.pdb
+C:\Users\resid\Desktop\new Tasks 5\Capitallizer 2 Word\Capitallizer 2 Word\obj\Debug\netcoreapp3.1\Capitallizer 2 Word.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\resid\source\repos\Space Task Praktic\Space Task Praktic\obj\Debug\netcoreapp3.1\Space Task Praktic.csproj.AssemblyReference.cache
+C:\Users\resid\source\repos\Space Task Praktic\Space Task Praktic\obj\Debug\netcoreapp3.1\Space Task Praktic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\source\repos\Space Task Praktic\Space Task Praktic\obj\Debug\netcoreapp3.1\Space Task Praktic.AssemblyInfoInputs.cache
+C:\Users\resid\source\repos\Space Task Praktic\Space Task Praktic\obj\Debug\netcoreapp3.1\Space Task Praktic.AssemblyInfo.cs
+C:\Users\resid\source\repos\Space Task Praktic\Space Task Praktic\obj\Debug\netcoreapp3.1\Space Task Praktic.csproj.CoreCompileInputs.cache
+C:\Users\resid\source\repos\Space Task Praktic\Space Task Praktic\bin\Debug\netcoreapp3.1\Space Task Praktic.exe
+C:\Users\resid\source\repos\Space Task Praktic\Space Task Praktic\bin\Debug\netcoreapp3.1\Space Task Praktic.deps.json
+C:\Users\resid\source\repos\Space Task Praktic\Space Task Praktic\bin\Debug\netcoreapp3.1\Space Task Praktic.runtimeconfig.json
+C:\Users\resid\source\repos\Space Task Praktic\Space Task Praktic\bin\Debug\netcoreapp3.1\Space Task Praktic.runtimeconfig.dev.json
+C:\Users\resid\source\repos\Space Task Praktic\Space Task Praktic\bin\Debug\netcoreapp3.1\Space Task Praktic.dll
+C:\Users\resid\source\repos\Space Task Praktic\Space Task Praktic\bin\Debug\netcoreapp3.1\Space Task Praktic.pdb
+C:\Users\resid\source\repos\Space Task Praktic\Space Task Praktic\obj\Debug\netcoreapp3.1\Space Task Praktic.dll
+C:\Users\resid\source\repos\Space Task Praktic\Space Task Praktic\obj\Debug\netcoreapp3.1\Space Task Praktic.pdb
+C:\Users\resid\source\repos\Space Task Praktic\Space Task Praktic\obj\Debug\netcoreapp3.1\Space Task Praktic.genruntimeconfig.cache

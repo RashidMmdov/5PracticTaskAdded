@@ -1,0 +1,28 @@
+C:\Users\resid\source\repos\Find First Word Task\Find First Word Task\bin\Debug\netcoreapp3.1\Find First Word Task.exe
+C:\Users\resid\source\repos\Find First Word Task\Find First Word Task\bin\Debug\netcoreapp3.1\Find First Word Task.deps.json
+C:\Users\resid\source\repos\Find First Word Task\Find First Word Task\bin\Debug\netcoreapp3.1\Find First Word Task.runtimeconfig.json
+C:\Users\resid\source\repos\Find First Word Task\Find First Word Task\bin\Debug\netcoreapp3.1\Find First Word Task.runtimeconfig.dev.json
+C:\Users\resid\source\repos\Find First Word Task\Find First Word Task\bin\Debug\netcoreapp3.1\Find First Word Task.dll
+C:\Users\resid\source\repos\Find First Word Task\Find First Word Task\bin\Debug\netcoreapp3.1\Find First Word Task.pdb
+C:\Users\resid\source\repos\Find First Word Task\Find First Word Task\obj\Debug\netcoreapp3.1\Find First Word Task.csproj.AssemblyReference.cache
+C:\Users\resid\source\repos\Find First Word Task\Find First Word Task\obj\Debug\netcoreapp3.1\Find First Word Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\source\repos\Find First Word Task\Find First Word Task\obj\Debug\netcoreapp3.1\Find First Word Task.AssemblyInfoInputs.cache
+C:\Users\resid\source\repos\Find First Word Task\Find First Word Task\obj\Debug\netcoreapp3.1\Find First Word Task.AssemblyInfo.cs
+C:\Users\resid\source\repos\Find First Word Task\Find First Word Task\obj\Debug\netcoreapp3.1\Find First Word Task.csproj.CoreCompileInputs.cache
+C:\Users\resid\source\repos\Find First Word Task\Find First Word Task\obj\Debug\netcoreapp3.1\Find First Word Task.dll
+C:\Users\resid\source\repos\Find First Word Task\Find First Word Task\obj\Debug\netcoreapp3.1\Find First Word Task.pdb
+C:\Users\resid\source\repos\Find First Word Task\Find First Word Task\obj\Debug\netcoreapp3.1\Find First Word Task.genruntimeconfig.cache
+C:\Users\resid\Desktop\new Tasks 5\Find First Word Task\Find First Word Task\bin\Debug\netcoreapp3.1\Find First Word Task.exe
+C:\Users\resid\Desktop\new Tasks 5\Find First Word Task\Find First Word Task\bin\Debug\netcoreapp3.1\Find First Word Task.deps.json
+C:\Users\resid\Desktop\new Tasks 5\Find First Word Task\Find First Word Task\bin\Debug\netcoreapp3.1\Find First Word Task.runtimeconfig.json
+C:\Users\resid\Desktop\new Tasks 5\Find First Word Task\Find First Word Task\bin\Debug\netcoreapp3.1\Find First Word Task.runtimeconfig.dev.json
+C:\Users\resid\Desktop\new Tasks 5\Find First Word Task\Find First Word Task\bin\Debug\netcoreapp3.1\Find First Word Task.dll
+C:\Users\resid\Desktop\new Tasks 5\Find First Word Task\Find First Word Task\bin\Debug\netcoreapp3.1\Find First Word Task.pdb
+C:\Users\resid\Desktop\new Tasks 5\Find First Word Task\Find First Word Task\obj\Debug\netcoreapp3.1\Find First Word Task.csproj.AssemblyReference.cache
+C:\Users\resid\Desktop\new Tasks 5\Find First Word Task\Find First Word Task\obj\Debug\netcoreapp3.1\Find First Word Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\Desktop\new Tasks 5\Find First Word Task\Find First Word Task\obj\Debug\netcoreapp3.1\Find First Word Task.AssemblyInfoInputs.cache
+C:\Users\resid\Desktop\new Tasks 5\Find First Word Task\Find First Word Task\obj\Debug\netcoreapp3.1\Find First Word Task.AssemblyInfo.cs
+C:\Users\resid\Desktop\new Tasks 5\Find First Word Task\Find First Word Task\obj\Debug\netcoreapp3.1\Find First Word Task.csproj.CoreCompileInputs.cache
+C:\Users\resid\Desktop\new Tasks 5\Find First Word Task\Find First Word Task\obj\Debug\netcoreapp3.1\Find First Word Task.dll
+C:\Users\resid\Desktop\new Tasks 5\Find First Word Task\Find First Word Task\obj\Debug\netcoreapp3.1\Find First Word Task.pdb
+C:\Users\resid\Desktop\new Tasks 5\Find First Word Task\Find First Word Task\obj\Debug\netcoreapp3.1\Find First Word Task.genruntimeconfig.cache
